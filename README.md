@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## group name :- "The Debuggers" 
 
 ## group members 
@@ -94,3 +95,6 @@ lab group 4.
 <br>↳The drop speed increases as the player clears more lines.
 
 <br>Enjoy playing Tetris!
+=======
+# Tetris-game-main-oops
+>>>>>>> e7088e63960c1164d24c449b0255a4dddc428741
