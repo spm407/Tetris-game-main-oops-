@@ -72,7 +72,7 @@ lab group 4.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Yug-Gabani/Tetris-game.git
+   git clone https://github.com/spm407/Tetris-game-main-oops-.git
    ```
 2. Navigate to the project directory:
    ```bash
